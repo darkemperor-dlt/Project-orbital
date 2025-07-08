@@ -1,0 +1,3 @@
+scapy==2.5.0 --hash=sha256:5b260c2b754fd8d409ba83ee7aee294ecdbb2c235f9f78fe90bc11cb6e5debc2
+pyinstaller==6.3.0 --hash=sha256:914d4c96cc99472e37ac552fdd82fbbe09e67bb592d0717fcffaa99ea74273df
+cryptography==42.0.0 --hash=sha256:6cf9b76d6e93c62114bd19485e5cb003115c134cf9ce91f8ac924c44f8c8c3f4 
